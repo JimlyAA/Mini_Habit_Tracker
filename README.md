@@ -22,11 +22,11 @@ Mini Habit Tracker adalah aplikasi Flutter sederhana yang digunakan untuk melaca
 ![image](https://github.com/user-attachments/assets/9c04849a-c3c4-4d0b-a598-1cb6df776d3b)
 
 ### 3.	Uji Tambah Habit:
-a. Klik tombol + di AppBar.
+#### a. Klik tombol + di AppBar.
 ![image](https://github.com/user-attachments/assets/5afeda14-451a-48ec-af7f-afe022fa3ae1)
-b. Coba simpan tanpa mengisi nama (validasi harus mencegah).
+#### b. Coba simpan tanpa mengisi nama (validasi harus mencegah).
 ![image](https://github.com/user-attachments/assets/ed1393e9-b547-4f0a-8578-8348e3e1589c)
-c.	Isi form dan simpan. Verifikasi habit baru muncul di list.
+#### c.	Isi form dan simpan. Verifikasi habit baru muncul di list.
 ![image](https://github.com/user-attachments/assets/6b00b412-679b-434c-8a58-9f5438a53452)
 
 ### 4.	Uji Edit Habit:
