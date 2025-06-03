@@ -1,10 +1,10 @@
 Jimly Asidiq Anwar - 4522210018
 
-# 🧩 Mini Habit Tracker
+# Mini Habit Tracker
 
 Mini Habit Tracker adalah aplikasi Flutter sederhana yang digunakan untuk melacak kebiasaan harian. Aplikasi ini sekaligus menjadi sarana belajar konsep *ephemeral state*, pengelolaan data dinamis, dan interaksi antarmuka pengguna menggunakan komponen-komponen Flutter seperti `StatefulWidget`, `setState()`, `AlertDialog`, dan lainnya.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - Tambah, edit, dan hapus kebiasaan (habit)
 - Tandai kebiasaan yang telah dilakukan
