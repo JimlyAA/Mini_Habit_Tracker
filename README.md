@@ -1,6 +1,8 @@
 # mini_habit_tracker
 
-A new Flutter project.
+Nama : Jimly Asidiq Anwar
+NPM : 4522210018
+
 
 ## Getting Started
 
