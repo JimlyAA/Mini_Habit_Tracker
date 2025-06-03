@@ -1,7 +1,6 @@
 # mini_habit_tracker
 
-Nama : Jimly Asidiq Anwar
-NPM : 4522210018
+Jimly Asidiq Anwar - 4522210018
 
 
 ## Getting Started
