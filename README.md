@@ -30,19 +30,19 @@ Mini Habit Tracker adalah aplikasi Flutter sederhana yang digunakan untuk melaca
 ![image](https://github.com/user-attachments/assets/6b00b412-679b-434c-8a58-9f5438a53452)
 
 ### 4.	Uji Edit Habit:
-a.	Klik menu tiga titik pada habit, pilih "Edit".
+#### a.	Klik menu tiga titik pada habit, pilih "Edit".
 ![image](https://github.com/user-attachments/assets/b8add1ce-ed3d-4d8b-b6dc-9153b4af1e9a)
-b.	Dialog harus muncul dengan data habit tersebut.
+#### b.	Dialog harus muncul dengan data habit tersebut.
 ![image](https://github.com/user-attachments/assets/362d0b1b-65dd-4a41-87c7-a80fb3a52929)
-c.	Ubah nama/deskripsi dan simpan. Verifikasi perubahan di list.
+#### c.	Ubah nama/deskripsi dan simpan. Verifikasi perubahan di list.
 ![image](https://github.com/user-attachments/assets/0fe1954e-8aec-41ae-8ead-15987e206ae0)
 
 ### 5.	Uji Hapus Habit:
-a.	Klik menu tiga titik pada habit, pilih "Hapus".
+#### a.	Klik menu tiga titik pada habit, pilih "Hapus".
 ![image](https://github.com/user-attachments/assets/c6b84375-c7d0-4ba7-964e-02e54818e8b4)
-b.	Dialog konfirmasi harus muncul. Coba batalkan.
+#### b.	Dialog konfirmasi harus muncul. Coba batalkan.
 ![image](https://github.com/user-attachments/assets/01571d2d-f6af-4e58-a8e2-796818316395)
-c.	Coba hapus lagi dan konfirmasi. Verifikasi habit hilang dari list.
+#### c.	Coba hapus lagi dan konfirmasi. Verifikasi habit hilang dari list.
 ![image](https://github.com/user-attachments/assets/9c12ba8d-5046-48fe-a8bd-f6b14e98e391)
 
 ### 6.	Uji Progress Bar: Pastikan progress di AppBar terupdate setelah menambah, menghapus, atau mencentang habit.
