@@ -53,8 +53,11 @@ Mini Habit Tracker adalah aplikasi Flutter sederhana yang digunakan untuk melaca
 
 ### 8.	Uji Ephemeral State: Tutup paksa aplikasi dan buka kembali. Semua perubahan (tambah, edit, hapus) seharusnya hilang, dan hanya data dari habits.json yang tampil.
 - Sebelum di tutup paksa :
+
 ![image](https://github.com/user-attachments/assets/6c6d7e80-d2a3-4951-8559-67d99bd6ba3e)
+
 - Sesudah di tutup paksa :
+
 ![image](https://github.com/user-attachments/assets/0fdbdacb-d7ef-434a-ba2c-a6d1b3bb0343)
 
 ### 9.	Amati Output print: Perhatikan konsol debug. Kapan saja print('build ${habit.name}') muncul? Bagaimana ini berkaitan dengan aksi Anda (check, add, edit, delete)?
